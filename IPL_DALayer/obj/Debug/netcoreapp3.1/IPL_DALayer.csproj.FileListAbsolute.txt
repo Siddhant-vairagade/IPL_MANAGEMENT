@@ -1,0 +1,13 @@
+C:\Users\sidva\OneDrive\Desktop\IPL\IPL_Management_System\IPL_DALayer\bin\Debug\netcoreapp3.1\IPL_DALayer.deps.json
+C:\Users\sidva\OneDrive\Desktop\IPL\IPL_Management_System\IPL_DALayer\bin\Debug\netcoreapp3.1\IPL_DALayer.runtimeconfig.json
+C:\Users\sidva\OneDrive\Desktop\IPL\IPL_Management_System\IPL_DALayer\bin\Debug\netcoreapp3.1\IPL_DALayer.runtimeconfig.dev.json
+C:\Users\sidva\OneDrive\Desktop\IPL\IPL_Management_System\IPL_DALayer\bin\Debug\netcoreapp3.1\IPL_DALayer.dll
+C:\Users\sidva\OneDrive\Desktop\IPL\IPL_Management_System\IPL_DALayer\bin\Debug\netcoreapp3.1\IPL_DALayer.pdb
+C:\Users\sidva\OneDrive\Desktop\IPL\IPL_Management_System\IPL_DALayer\obj\Debug\netcoreapp3.1\IPL_DALayer.csproj.AssemblyReference.cache
+C:\Users\sidva\OneDrive\Desktop\IPL\IPL_Management_System\IPL_DALayer\obj\Debug\netcoreapp3.1\IPL_DALayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sidva\OneDrive\Desktop\IPL\IPL_Management_System\IPL_DALayer\obj\Debug\netcoreapp3.1\IPL_DALayer.AssemblyInfoInputs.cache
+C:\Users\sidva\OneDrive\Desktop\IPL\IPL_Management_System\IPL_DALayer\obj\Debug\netcoreapp3.1\IPL_DALayer.AssemblyInfo.cs
+C:\Users\sidva\OneDrive\Desktop\IPL\IPL_Management_System\IPL_DALayer\obj\Debug\netcoreapp3.1\IPL_DALayer.csproj.CoreCompileInputs.cache
+C:\Users\sidva\OneDrive\Desktop\IPL\IPL_Management_System\IPL_DALayer\obj\Debug\netcoreapp3.1\IPL_DALayer.dll
+C:\Users\sidva\OneDrive\Desktop\IPL\IPL_Management_System\IPL_DALayer\obj\Debug\netcoreapp3.1\IPL_DALayer.pdb
+C:\Users\sidva\OneDrive\Desktop\IPL\IPL_Management_System\IPL_DALayer\obj\Debug\netcoreapp3.1\IPL_DALayer.genruntimeconfig.cache
